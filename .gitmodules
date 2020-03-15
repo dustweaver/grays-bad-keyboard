@@ -1,0 +1,6 @@
+[submodule "grays-bad-keyboard/MX_Alps_Hybrid.pretty"]
+	path = grays-bad-keyboard/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "grays-bad-keyboard/random-keyboard-parts.pretty"]
+	path = grays-bad-keyboard/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
